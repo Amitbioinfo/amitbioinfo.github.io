@@ -4,6 +4,6 @@ I am currently working as Project Associate-II at Bioinformatics Centre and Viro
 
 As a part of research work, I have been involved in several independent and collaborative projects focusing on the development of computational web resources, machine learning prediction algorithms, HPV and carcinoma, viromics, NGS, and metagenomics.
 
-Google Scholar: <href a="https://scholar.google.com/citations?user=DLKvqVsAAAAJ" name="https://scholar.google.com/citations?user=DLKvqVsAAAAJ">
+Google Scholar:[https://scholar.google.com/citations?user=DLKvqVsAAAAJ](https://scholar.google.com/citations?user=DLKvqVsAAAAJ)
 
 ORCID iD: https://orcid.org/0000-0002-8395-1201
