@@ -1,4 +1,4 @@
-## Amit Kumar Gupta
+# Amit Kumar Gupta
 
 I am currently working as Project Associate-II at Bioinformatics Centre and Virology Unit, CSIR-Institute of Microbial Technology (IMTECH), Chandigarh, India. I have recently finished doctoral training (thesis submitted, November 2020) as a DST-INSPIRE Fellow at CSIR-IMTECH, Chandigarh, India, under the supervision of Dr. Manoj Kumar, Principal Scientist and Head Virology Unit. I have completed Masters (M.Sc.) in Bioinformatics from Manipal Life Sciences Centre (MLSC), Manipal University, Karnataka in 2012 with the distinction (First Rank). I have done graduation (B.Sc. Bioinformatics, Biotechnology, Computer science) from Devi Ahilya Vishwavidyalaya (DAVV), Indore (M.P.) in 2009.
 
