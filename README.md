@@ -1,37 +1,8 @@
 ## Amit Kumar Gupta
 
-You can use the [editor on GitHub](https://github.com/Amitbioinfo/amitbioinfo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am Amit Kumar Gupta, currently working as Project Associate-II at Bioinformatics Centre and Virology Unit, CSIR-Institute of Microbial Technology (IMTECH), Chandigarh, India. I have recently finished doctoral training (thesis submitted, November 2020) as a DST-INSPIRE Fellow at CSIR-IMTECH, Chandigarh, India, under the supervision of Dr. Manoj Kumar, Principal Scientist and Head Virology Unit. I have completed Masters (M.Sc.) in Bioinformatics from Manipal Life Sciences Centre (MLSC), Manipal University, Karnataka in 2012 with the distinction (First Rank). I have done graduation (B.Sc. Bioinformatics, Biotechnology, Computer science) from Devi Ahilya Vishwavidyalaya (DAVV), Indore (M.P.) in 2009.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As a part of research work, I have been involved in several independent and collaborative projects focusing on the development of computational web resources, machine learning prediction algorithms, HPV and carcinoma, viromics, NGS, and metagenomics.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Amitbioinfo/amitbioinfo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Google Scholar: https://scholar.google.com/citations?user=DLKvqVsAAAAJ
+ORCID iD: https://orcid.org/0000-0002-8395-1201
