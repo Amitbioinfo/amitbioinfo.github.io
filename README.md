@@ -5,4 +5,5 @@ I am Amit Kumar Gupta, currently working as Project Associate-II at Bioinformati
 As a part of research work, I have been involved in several independent and collaborative projects focusing on the development of computational web resources, machine learning prediction algorithms, HPV and carcinoma, viromics, NGS, and metagenomics.
 
 Google Scholar: https://scholar.google.com/citations?user=DLKvqVsAAAAJ
+
 ORCID iD: https://orcid.org/0000-0002-8395-1201
